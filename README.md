@@ -12,7 +12,3 @@ Authors:Josh, Jack, Emma, John, Montunz
 		
  * FAQ
  * Maintainers
-
- jonno
- Jack Clarke
- Josh
